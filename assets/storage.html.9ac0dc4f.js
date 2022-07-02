@@ -1,0 +1,1 @@
+const e={key:"v-49fe8a2a",path:"/guide/storage.html",title:"\u79C1\u6709 Storage \u6570\u636E",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:163558272e4,contributors:[{name:"hooray",email:"304327508@qq.com",commits:1}]},filePathRelative:"guide/storage.md"};export{e as data};

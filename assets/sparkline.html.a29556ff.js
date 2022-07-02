@@ -1,0 +1,1 @@
+const e={key:"v-2f571056",path:"/guide/components/sparkline.html",title:"Sparkline \u8FF7\u4F60\u56FE",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Props",slug:"props",children:[]}],git:{updatedTime:1649475503e3,contributors:[{name:"hooray",email:"304327508@qq.com",commits:1}]},filePathRelative:"guide/components/sparkline.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-35ba798a",path:"/guide/components/svg-icon.html",title:"SvgIcon SVG\u56FE\u6807",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Props",slug:"props",children:[]}],git:{updatedTime:1650734928e3,contributors:[{name:"hooray",email:"304327508@qq.com",commits:2}]},filePathRelative:"guide/components/svg-icon.md"};export{e as data};

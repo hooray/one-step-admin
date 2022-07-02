@@ -1,0 +1,1 @@
+const e={key:"v-765e61ae",path:"/guide/upgrade.html",title:"\u7248\u672C\u5347\u7EA7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1638213822e3,contributors:[{name:"hooray",email:"304327508@qq.com",commits:2}]},filePathRelative:"guide/upgrade.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-71c50ac4",path:"/guide/router.html",title:"\u8DEF\u7531",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u514D\u767B\u5F55\u9875\u9762",slug:"\u514D\u767B\u5F55\u9875\u9762",children:[]}],git:{updatedTime:1635732271e3,contributors:[{name:"hooray",email:"304327508@qq.com",commits:1}]},filePathRelative:"guide/router.md"};export{e as data};
